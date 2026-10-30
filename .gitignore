@@ -1,0 +1,8 @@
+# Local build output and IDE settings
+.gradle/
+build/
+.idea/
+*.iml
+source/web/web/war/
+*.hprof
+hs_err_pid*.log
